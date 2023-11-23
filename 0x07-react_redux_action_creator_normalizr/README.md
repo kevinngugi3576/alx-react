@@ -24,28 +24,10 @@ All your files will be interpreted/compiled on Ubuntu 18.04 LTS using node 12.x.
 A README.md file, at the root of the folder of the project, is mandatory
 Push all of your files, including package.json and .babelrc
 All of your functions must be exported
+
+
 Provided files
 notifications.json
 Click to show/hide contents of notifications.json
-
-
 login-success.json
-Click to show/hide contents of login-success.json
-
-{
-  "first_name": "Johann",
-  "last_name": "Salva",
-  "email": "johann.salva@holberton.nz",
-  "profile_picture": "http://placehold.it/32x32"
-}
-
-[
-  {
-    "id": "5debd76480edafc8af244228",
-    "author": {
-      "id": "5debd764a7c57c7839d722e9",
-      "name": { "first": "Poole", "last": "Sanders" },
-      "email": "poole.sanders@holberton.nz",
-      "picture": "http://placehold.it/32x32",
-      "age": 25
-    },
+Note that the notifications .json and the login-success.json are in the root of every dir, those file must be included as per requirement!
