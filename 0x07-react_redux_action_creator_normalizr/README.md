@@ -38,3 +38,14 @@ Click to show/hide contents of login-success.json
   "email": "johann.salva@holberton.nz",
   "profile_picture": "http://placehold.it/32x32"
 }
+
+[
+  {
+    "id": "5debd76480edafc8af244228",
+    "author": {
+      "id": "5debd764a7c57c7839d722e9",
+      "name": { "first": "Poole", "last": "Sanders" },
+      "email": "poole.sanders@holberton.nz",
+      "picture": "http://placehold.it/32x32",
+      "age": 25
+    },
